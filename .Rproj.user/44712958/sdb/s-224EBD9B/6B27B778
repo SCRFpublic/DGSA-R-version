@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: DGSA\nType: Package\nTitle: The package computes parameter sensitivities with DGSA method (Fenwick et al)\nVersion: 1.0\nDate: 2016-10-19\nAuthor: Ogy Grujic ogyg@stanford.edu\nMaintainer: Who to complain to <ogyg@stanford.edu>\nDescription: The package implements DGSA method that was originally\n             developed by Fenwick and Scheidt in 2012.\n             Code in this package is closely following the original code by\n             C. Scheidt which is publically available on github.com/SCRF_public/DGSA\nLicense: GPL2\nLazyData: TRUE\nRoxygenNote: 5.0.1\nDepends:\n  ggplot2,\n  corrplot,\n  reshape2\nImports:\n  ggplot2,\n  plyr,\n  reshape2,\n",
+    "created" : 1478106460105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1299681198",
+    "id" : "6B27B778",
+    "lastKnownWriteTime" : 1478107990,
+    "path" : "~/Google Drive/Functional_Research/DGSA/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "dcf"
+}
