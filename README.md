@@ -15,6 +15,10 @@ To install the package you can follow two paths:
    First you will need to make sure that you have devtools installed (library(devtools)), then you can install with the following command:
    devtools::install_github("ogru/DGSA"). After that you can proceed to load the routines in the usual way with library(DGSA).
 
+To view some of the package capabilities copy and paste the following URL in your browser: https://rawgit.com/ogru/DGSA/master/vignette/Intro_to_DGSA.html
+
+It will view the vignette without downloading the package/file. 
+
 If you prefer to work with MATLAB, you can find the original MATLAB implementation here: https://github.com/scheidtc/dGSA. However, without 
 the matrix plot for visualization of all sensitivities/importances. 
 
